@@ -1,0 +1,500 @@
+Doing name operation ----
+Completed name operation
+N -> 289383
+K -> 7
+A -> 18
+Doing name operation ----
+Completed name operation
+N -> 850213
+K -> 4
+A -> 1
+Doing name operation ----
+Completed name operation
+N -> 309512
+K -> 5
+A -> 14
+Doing name operation ----
+Completed name operation
+N -> 610995
+K -> 10
+A -> 2
+Doing name operation ----
+Completed name operation
+N -> 949582
+K -> 8
+A -> 17
+Doing name operation ----
+Completed name operation
+N -> 785307
+K -> 10
+A -> 11
+Doing name operation ----
+Completed name operation
+N -> 125424
+K -> 2
+A -> 2
+Doing name operation ----
+Completed name operation
+N -> 156886
+K -> 10
+A -> 15
+Doing name operation ----
+Completed name operation
+N -> 631317
+K -> 1
+A -> 11
+Doing name operation ----
+Completed name operation
+N -> 393340
+K -> 3
+A -> 20
+Doing this operation ----
+Completed name operation
+N -> 202288
+K -> 5
+A -> 8
+Doing this operation ----
+Completed name operation
+N -> 64259
+K -> 4
+A -> 13
+Doing this operation ----
+Completed name operation
+N -> 587690
+K -> 6
+A -> 7
+Doing this operation ----
+Completed name operation
+N -> 595773
+K -> 3
+A -> 11
+Doing this operation ----
+Completed name operation
+N -> 362503
+K -> 8
+A -> 1
+Doing this operation ----
+Completed name operation
+N -> 563460
+K -> 9
+A -> 19
+Doing this operation ----
+Completed name operation
+N -> 372044
+K -> 10
+A -> 19
+Doing this operation ----
+Completed name operation
+N -> 174371
+K -> 3
+A -> 18
+Doing this operation ----
+Completed name operation
+N -> 653276
+K -> 7
+A -> 18
+Doing this operation ----
+Completed name operation
+N -> 355830
+K -> 1
+A -> 13
+Doing this operation ----
+Completed name operation
+N -> 265843
+K -> 1
+A -> 4
+Doing this operation ----
+Completed name operation
+N -> 899986
+K -> 3
+A -> 20
+Doing this operation ----
+Completed name operation
+N -> 396301
+K -> 8
+A -> 20
+Doing this operation ----
+Completed name operation
+N -> 970746
+K -> 1
+A -> 13
+Doing this operation ----
+Completed name operation
+N -> 55427
+K -> 5
+A -> 7
+Doing this operation ----
+Completed name operation
+N -> 211800
+K -> 6
+A -> 5
+Doing this operation ----
+Completed name operation
+N -> 481216
+K -> 2
+A -> 16
+Doing this operation ----
+Completed name operation
+N -> 701173
+K -> 4
+A -> 1
+Doing this operation ----
+Completed name operation
+N -> 613951
+K -> 3
+A -> 11
+Doing this operation ----
+Completed name operation
+N -> 512350
+K -> 8
+A -> 9
+Doing this operation ----
+Completed name operation
+N -> 344207
+K -> 10
+A -> 4
+Doing this operation ----
+Completed name operation
+N -> 454231
+K -> 10
+A -> 11
+Doing this operation ----
+Completed name operation
+N -> 650716
+K -> 4
+A -> 18
+Doing this operation ----
+Completed name operation
+N -> 179252
+K -> 1
+A -> 2
+Doing this operation ----
+Completed name operation
+N -> 331246
+K -> 8
+A -> 4
+Doing this operation ----
+Completed name operation
+N -> 755640
+K -> 8
+A -> 18
+Doing this operation ----
+Completed name operation
+N -> 228468
+K -> 5
+A -> 1
+Doing this operation ----
+Completed name operation
+N -> 781351
+K -> 1
+A -> 18
+Doing this operation ----
+Completed name operation
+N -> 230569
+K -> 7
+A -> 1
+Doing this operation ----
+Completed name operation
+N -> 902197
+K -> 2
+A -> 15
+Doing this operation ----
+Completed name operation
+N -> 946700
+K -> 10
+A -> 20
+Doing this operation ----
+Completed name operation
+N -> 612738
+K -> 2
+A -> 6
+Doing this operation ----
+Completed name operation
+N -> 757984
+K -> 9
+A -> 8
+Doing this operation ----
+Completed name operation
+N -> 299508
+K -> 2
+A -> 3
+Doing this operation ----
+Completed name operation
+N -> 136386
+K -> 10
+A -> 15
+Doing this operation ----
+Completed name operation
+N -> 250455
+K -> 6
+A -> 6
+Doing this operation ----
+Completed name operation
+N -> 525796
+K -> 1
+A -> 13
+Doing this operation ----
+Completed name operation
+N -> 27497
+K -> 1
+A -> 11
+Doing this operation ----
+Completed name operation
+N -> 91579
+K -> 7
+A -> 5
+Doing this operation ----
+Completed name operation
+N -> 466545
+K -> 9
+A -> 5
+Doing this operation ----
+Completed name operation
+N -> 701112
+K -> 5
+A -> 7
+Doing this operation ----
+Completed name operation
+N -> 353330
+K -> 6
+A -> 13
+Doing this operation ----
+Completed name operation
+N -> 55382
+K -> 10
+A -> 20
+Doing this operation ----
+Completed name operation
+N -> 516844
+K -> 10
+A -> 7
+Doing this operation ----
+Completed name operation
+N -> 382947
+K -> 2
+A -> 7
+Doing this operation ----
+Completed name operation
+N -> 752277
+K -> 8
+A -> 10
+Doing this operation ----
+Completed name operation
+N -> 816667
+K -> 2
+A -> 20
+Doing this operation ----
+Completed name operation
+N -> 711393
+K -> 3
+A -> 5
+Doing this operation ----
+Completed name operation
+N -> 658506
+K -> 6
+A -> 18
+Doing this operation ----
+Completed name operation
+N -> 1769
+K -> 5
+A -> 10
+Doing this operation ----
+Completed name operation
+N -> 911748
+K -> 10
+A -> 6
+Doing this operation ----
+Completed name operation
+N -> 773997
+K -> 8
+A -> 10
+Doing this operation ----
+Completed name operation
+N -> 50065
+K -> 7
+A -> 8
+Doing this operation ----
+Completed name operation
+N -> 701380
+K -> 3
+A -> 20
+Doing this operation ----
+Completed name operation
+N -> 404597
+K -> 5
+A -> 2
+Doing this operation ----
+Completed name operation
+N -> 93735
+K -> 9
+A -> 4
+Doing this operation ----
+Completed name operation
+N -> 337782
+K -> 4
+A -> 11
+Doing this operation ----
+Completed name operation
+N -> 769643
+K -> 3
+A -> 13
+Doing this operation ----
+Completed name operation
+N -> 204134
+K -> 9
+A -> 8
+Doing this operation ----
+Completed name operation
+N -> 933003
+K -> 7
+A -> 7
+Doing this operation ----
+Completed name operation
+N -> 269930
+K -> 7
+A -> 1
+Doing this operation ----
+Completed name operation
+N -> 146441
+K -> 7
+A -> 14
+Doing this operation ----
+Completed name operation
+N -> 316768
+K -> 3
+A -> 20
+Doing this operation ----
+Completed name operation
+N -> 998263
+K -> 10
+A -> 16
+Doing this operation ----
+Completed name operation
+N -> 99455
+K -> 6
+A -> 6
+Doing this operation ----
+Completed name operation
+N -> 378920
+K -> 2
+A -> 19
+Doing this operation ----
+Completed name operation
+N -> 496862
+K -> 10
+A -> 17
+Doing this operation ----
+Completed name operation
+N -> 296127
+K -> 3
+A -> 13
+Doing this operation ----
+Completed name operation
+N -> 700690
+K -> 8
+A -> 8
+Doing this operation ----
+Completed name operation
+N -> 650235
+K -> 4
+A -> 13
+Doing this operation ----
+Completed name operation
+N -> 503180
+K -> 5
+A -> 7
+Doing this operation ----
+Completed name operation
+N -> 827762
+K -> 6
+A -> 18
+Doing this operation ----
+Completed name operation
+N -> 805650
+K -> 10
+A -> 1
+Doing this operation ----
+Completed name operation
+N -> 167964
+K -> 9
+A -> 6
+Doing this operation ----
+Completed name operation
+N -> 277989
+K -> 3
+A -> 2
+Doing this operation ----
+Completed name operation
+N -> 458240
+K -> 4
+A -> 19
+Doing this operation ----
+Completed name operation
+N -> 985408
+K -> 4
+A -> 5
+Doing this operation ----
+Completed name operation
+N -> 170531
+K -> 1
+A -> 11
+Doing this operation ----
+Completed name operation
+N -> 682676
+K -> 2
+A -> 16
+Doing this operation ----
+Completed name operation
+N -> 705214
+K -> 3
+A -> 11
+Doing this operation ----
+Completed name operation
+N -> 925968
+K -> 2
+A -> 4
+Doing this operation ----
+Completed name operation
+N -> 846653
+K -> 9
+A -> 8
+Doing this operation ----
+Completed name operation
+N -> 744643
+K -> 2
+A -> 14
+Doing this operation ----
+Completed name operation
+N -> 242410
+K -> 5
+A -> 4
+Doing this operation ----
+Completed name operation
+N -> 855293
+K -> 4
+A -> 2
+Doing this operation ----
+Completed name operation
+N -> 141352
+K -> 7
+A -> 5
+Doing this operation ----
+Completed name operation
+N -> 956258
+K -> 9
+A -> 2
+Doing this operation ----
+Completed name operation
+N -> 148254
+K -> 10
+A -> 13
+Doing this operation ----
+Completed name operation
+N -> 104216
+K -> 7
+A -> 5
+Doing this operation ----
+Completed name operation
+N -> 548040
+K -> 1
+A -> 5

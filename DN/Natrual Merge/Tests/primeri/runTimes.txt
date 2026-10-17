@@ -1,0 +1,400 @@
+Testing primer0__.in:
+
+Piped output to: ../out/primer0__.out
+
+Testing primer10_.in:
+
+Piped output to: ../out/primer10_.out
+
+Testing primer11_.in:
+
+Piped output to: ../out/primer11_.out
+
+Testing primer12_.in:
+
+Piped output to: ../out/primer12_.out
+
+Testing primer13_.in:
+
+Piped output to: ../out/primer13_.out
+
+Testing primer14_.in:
+
+Piped output to: ../out/primer14_.out
+
+Testing primer15_.in:
+
+Piped output to: ../out/primer15_.out
+
+Testing primer16_.in:
+
+Piped output to: ../out/primer16_.out
+
+Testing primer17_.in:
+
+Piped output to: ../out/primer17_.out
+
+Testing primer18_.in:
+
+Piped output to: ../out/primer18_.out
+
+Testing primer19_.in:
+
+Piped output to: ../out/primer19_.out
+
+Testing primer1__.in:
+
+Piped output to: ../out/primer1__.out
+
+Testing primer20_.in:
+
+Piped output to: ../out/primer20_.out
+
+Testing primer21_.in:
+
+Piped output to: ../out/primer21_.out
+
+Testing primer22_.in:
+
+Piped output to: ../out/primer22_.out
+
+Testing primer23_.in:
+
+Piped output to: ../out/primer23_.out
+
+Testing primer24_.in:
+
+Piped output to: ../out/primer24_.out
+
+Testing primer25_.in:
+
+Piped output to: ../out/primer25_.out
+
+Testing primer26_.in:
+
+Piped output to: ../out/primer26_.out
+
+Testing primer27_.in:
+
+Piped output to: ../out/primer27_.out
+
+Testing primer28_.in:
+
+Piped output to: ../out/primer28_.out
+
+Testing primer29_.in:
+
+Piped output to: ../out/primer29_.out
+
+Testing primer2__.in:
+
+Piped output to: ../out/primer2__.out
+
+Testing primer30_.in:
+
+Piped output to: ../out/primer30_.out
+
+Testing primer31_.in:
+
+Piped output to: ../out/primer31_.out
+
+Testing primer32_.in:
+
+Piped output to: ../out/primer32_.out
+
+Testing primer33_.in:
+
+Piped output to: ../out/primer33_.out
+
+Testing primer34_.in:
+
+Piped output to: ../out/primer34_.out
+
+Testing primer35_.in:
+
+Piped output to: ../out/primer35_.out
+
+Testing primer36_.in:
+
+Piped output to: ../out/primer36_.out
+
+Testing primer37_.in:
+
+Piped output to: ../out/primer37_.out
+
+Testing primer38_.in:
+
+Piped output to: ../out/primer38_.out
+
+Testing primer39_.in:
+
+Piped output to: ../out/primer39_.out
+
+Testing primer3__.in:
+
+Piped output to: ../out/primer3__.out
+
+Testing primer40_.in:
+
+Piped output to: ../out/primer40_.out
+
+Testing primer41_.in:
+
+Piped output to: ../out/primer41_.out
+
+Testing primer42_.in:
+
+Piped output to: ../out/primer42_.out
+
+Testing primer43_.in:
+
+Piped output to: ../out/primer43_.out
+
+Testing primer44_.in:
+
+Piped output to: ../out/primer44_.out
+
+Testing primer45_.in:
+
+Piped output to: ../out/primer45_.out
+
+Testing primer46_.in:
+
+Piped output to: ../out/primer46_.out
+
+Testing primer47_.in:
+
+Piped output to: ../out/primer47_.out
+
+Testing primer48_.in:
+
+Piped output to: ../out/primer48_.out
+
+Testing primer49_.in:
+
+Piped output to: ../out/primer49_.out
+
+Testing primer4__.in:
+
+Piped output to: ../out/primer4__.out
+
+Testing primer50_.in:
+
+Piped output to: ../out/primer50_.out
+
+Testing primer51_.in:
+
+Piped output to: ../out/primer51_.out
+
+Testing primer52_.in:
+
+Piped output to: ../out/primer52_.out
+
+Testing primer53_.in:
+
+Piped output to: ../out/primer53_.out
+
+Testing primer54_.in:
+
+Piped output to: ../out/primer54_.out
+
+Testing primer55_.in:
+
+Piped output to: ../out/primer55_.out
+
+Testing primer56_.in:
+
+Piped output to: ../out/primer56_.out
+
+Testing primer57_.in:
+
+Piped output to: ../out/primer57_.out
+
+Testing primer58_.in:
+
+Piped output to: ../out/primer58_.out
+
+Testing primer59_.in:
+
+Piped output to: ../out/primer59_.out
+
+Testing primer5__.in:
+
+Piped output to: ../out/primer5__.out
+
+Testing primer60_.in:
+
+Piped output to: ../out/primer60_.out
+
+Testing primer61_.in:
+
+Piped output to: ../out/primer61_.out
+
+Testing primer62_.in:
+
+Piped output to: ../out/primer62_.out
+
+Testing primer63_.in:
+
+Piped output to: ../out/primer63_.out
+
+Testing primer64_.in:
+
+Piped output to: ../out/primer64_.out
+
+Testing primer65_.in:
+
+Piped output to: ../out/primer65_.out
+
+Testing primer66_.in:
+
+Piped output to: ../out/primer66_.out
+
+Testing primer67_.in:
+
+Piped output to: ../out/primer67_.out
+
+Testing primer68_.in:
+
+Piped output to: ../out/primer68_.out
+
+Testing primer69_.in:
+
+Piped output to: ../out/primer69_.out
+
+Testing primer6__.in:
+
+Piped output to: ../out/primer6__.out
+
+Testing primer70_.in:
+
+Piped output to: ../out/primer70_.out
+
+Testing primer71_.in:
+
+Piped output to: ../out/primer71_.out
+
+Testing primer72_.in:
+
+Piped output to: ../out/primer72_.out
+
+Testing primer73_.in:
+
+Piped output to: ../out/primer73_.out
+
+Testing primer74_.in:
+
+Piped output to: ../out/primer74_.out
+
+Testing primer75_.in:
+
+Piped output to: ../out/primer75_.out
+
+Testing primer76_.in:
+
+Piped output to: ../out/primer76_.out
+
+Testing primer77_.in:
+
+Piped output to: ../out/primer77_.out
+
+Testing primer78_.in:
+
+Piped output to: ../out/primer78_.out
+
+Testing primer79_.in:
+
+Piped output to: ../out/primer79_.out
+
+Testing primer7__.in:
+
+Piped output to: ../out/primer7__.out
+
+Testing primer80_.in:
+
+Piped output to: ../out/primer80_.out
+
+Testing primer81_.in:
+
+Piped output to: ../out/primer81_.out
+
+Testing primer82_.in:
+
+Piped output to: ../out/primer82_.out
+
+Testing primer83_.in:
+
+Piped output to: ../out/primer83_.out
+
+Testing primer84_.in:
+
+Piped output to: ../out/primer84_.out
+
+Testing primer85_.in:
+
+Piped output to: ../out/primer85_.out
+
+Testing primer86_.in:
+
+Piped output to: ../out/primer86_.out
+
+Testing primer87_.in:
+
+Piped output to: ../out/primer87_.out
+
+Testing primer88_.in:
+
+Piped output to: ../out/primer88_.out
+
+Testing primer89_.in:
+
+Piped output to: ../out/primer89_.out
+
+Testing primer8__.in:
+
+Piped output to: ../out/primer8__.out
+
+Testing primer90_.in:
+
+Piped output to: ../out/primer90_.out
+
+Testing primer91_.in:
+
+Piped output to: ../out/primer91_.out
+
+Testing primer92_.in:
+
+Piped output to: ../out/primer92_.out
+
+Testing primer93_.in:
+
+Piped output to: ../out/primer93_.out
+
+Testing primer94_.in:
+
+Piped output to: ../out/primer94_.out
+
+Testing primer95_.in:
+
+Piped output to: ../out/primer95_.out
+
+Testing primer96_.in:
+
+Piped output to: ../out/primer96_.out
+
+Testing primer97_.in:
+
+Piped output to: ../out/primer97_.out
+
+Testing primer98_.in:
+
+Piped output to: ../out/primer98_.out
+
+Testing primer99_.in:
+
+Piped output to: ../out/primer99_.out
+
+Testing primer9__.in:
+
+Piped output to: ../out/primer9__.out
+

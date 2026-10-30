@@ -42,7 +42,7 @@ void printVector(const vector<int>& vec)
 int main(int argc, char *argv[])
 {
 
-    int n, k, a, read;
+    int n, k, a;
     cin >> n >> k >> a;
     vector<int> vec(n);
     vector<queue<int>> vq;
@@ -50,7 +50,7 @@ int main(int argc, char *argv[])
     for (int i = 0; i < n; i++)
         cin >> vec[i];
 
-    while (a-- > 0)
+    while (a --> 0)
     {
         vq.emplace_back();
         vq[0].push(vec[0]);

@@ -62,10 +62,10 @@ $q(l,r) = f(a_l2, a_{l+1}, \dots, a_{r-1})$
 Gledamo 2 stvari: cas in prostor za pred-obdelavo (pre processing), ter cas za poizvedbo
 
 ### Vsota
-$$
-c_i = \sum\limits_{j=1}^{i-1}a_j \newline
-q(l,n) = c_r - c_l
-$$
+$ c_i = \sum\limits_{j=1}^{i-1}a_j$
+
+$q(l,n) = c_r - c_l$
+
 
 primerjava:
 

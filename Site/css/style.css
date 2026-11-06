@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
+.zain-extralight {
+    font-family: "Zain", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.zain-light {
+    font-family: "Zain", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.zain-regular {
+    font-family: "Zain", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.zain-bold {
+    font-family: "Zain", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.zain-extrabold {
+    font-family: "Zain", serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.zain-black {
+    font-family: "Zain", serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.zain-light-italic {
+    font-family: "Zain", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.zain-regular-italic {
+    font-family: "Zain", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+:root{
+    --default-font: 'Zain', 'Sans-serif';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: var(--default-font), sans-serif;
+}
+
+.side_bar {
+    position: fixed;
+    width: 20%;
+    height: 100%;
+    z-index: 9;
+    background: #161b22;
+    color: white;
+}
+
+.side_bar_toggle{
+    position: absolute;
+    display: flex;
+    width: 3rem;
+    height: 3rem;
+    /*background: white;*/
+    background: #161b22;
+    right: -3rem;
+    top: 10%;
+    border-radius: 0 10px 10px 0;
+}
+
+.side_bar_arrow_div{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.side_bar_arrow_div span{
+    height: 32px;
+    width: 32px;
+}
+
+.side_bar_arrow_div span svg{
+    height: 100%;
+    width: 100%;
+    transition: 35ms ease-in;
+}
+
+.side_bar_arrow_div span:hover{
+    transform: scale(1.1,1.1);
+    transition: 35ms ease-out;
+}
+
+.side_bar_content{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.side_bar_content_header {
+    display:flex;
+    width: 100%;
+    height: 3rem;
+    font-size: 1.5rem;
+    justify-content: center;
+}
+
+.side_bar_list_container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: .5rem;
+}
+
+.side_bar_list_item_container
+{
+    display: flex;
+    flex-direction: column;
+    row-gap: .5rem;
+    width: 100%;
+    min-height: 2.5rem;
+    max-height: 100%;
+    align-items: end;
+}
+.side_bar_list_item {
+    width: 95%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    background: #0d1117;
+    padding-left: .5rem;
+    column-gap: 1rem;
+}
+
+.side_bar_list_item.sub{
+    display: none;
+    width: 90%;
+}
+
+.side_bar_list_item.sub.active{
+    display: flex;
+    align-self: end;
+}
+
+.list_item_ico{
+    height: 100%;
+    width: 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.list_item_ico div
+{
+    display: flex;
+    height: 2rem;
+    width: 2rem;
+}
+
+.list_item_ico div span
+{
+    height: 2rem;
+    width: 2rem;
+}
+
+.list_item_ico div span svg {
+    height: 100%;
+    width: 100%;
+}
+
+.list_item_content{
+    max-width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+}
+
+.list_item_content span{
+    display: inline-block;
+    line-height: 1;
+}
+
+.side_bar_list_expand
+{
+    width: 2rem;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.side_bar_list_expand div {
+    display: flex;
+}
+
+.side_bar_list_expand div span {
+    height: 2rem;
+    width: 2rem;
+}
+
+.side_bar_list_expand div span svg
+{
+    width: 100%;
+    height: 100%;
+    transform: rotate(180deg);
+    transition: 250ms ease;
+}
+
+.side_bar_list_item:hover{
+    transform: scale(1.02);
+    transition: 250ms ease-in;
+    cursor: pointer;
+}
+
+.side_bar_list_item.expanded .side_bar_list_expand div span svg{
+    transform: rotate(360deg);
+    transition: 100ms ease-in-out;
+}

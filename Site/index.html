@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>APS</title>
+    <link rel="stylesheet" href="css/style.css">
+
+    <script type="module" src="https://cdn.jsdelivr.net/npm/zero-md@3?register"></script>
+</head>
+<body>
+
+<div class="side_bar">
+    <div class="side_bar_toggle">
+        <div class="side_bar_arrow_div">
+            <span>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24px" width="24px" fill="#e3e3e3">
+                    <path d="M12,16l4-4L12,8L10.6,9.4L12.2,11H8v2h4.2l-1.6,1.6L12,16Zm0,6q-2.07,0-3.9-0.79q-1.82-0.79-3.17-2.14Q3.58,17.73 2.79,15.9T2,12Q2,9.92 2.79,8.1Q3.58,6.27 4.93,4.93Q6.28,3.57 8.1,2.79Q9.93,2 12,2t3.9,0.79t3.17,2.14q1.35,1.35 2.14,3.17Q22,9.92 22,12t-0.79,3.9t-2.14,3.17q-1.35,1.35-3.17,2.14T12,22Zm0-2q3.35,0 5.68-2.32T20,12T17.68,6.32T12,4T6.33,6.32T4,12t2.33,5.68T12,20Zm0-8Z"/>
+                </svg>
+            </span>
+        </div>
+    </div>
+
+    <div class="side_bar_content">
+        <div class="side_bar_content_header">
+            <span>Chapters</span>
+        </div>
+
+
+        <div class="side_bar_list_container">
+            <!-- this is one item -->
+            <div class="side_bar_list_item_container">
+                <div class="side_bar_list_item" onclick="expand_list(this)">
+                    <div class="list_item_ico">
+                        <div>
+                        <span>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24px" width="24px"
+                                 fill="#e3e3e3">
+                                <path d="M4,20q-0.82,0-1.41-0.59T2,18V6Q2,5.18 2.59,4.59T4,4h6l2,2h8q0.83,0 1.41,0.59Q22,7.18 22,8V18q0,0.82-0.59,1.41T20,20H4Zm0-2H20V8H11.18l-2-2H4V18Zm0,0V6V8V18Z"/>
+                            </svg>
+                        </span>
+                        </div>
+                    </div>
+                    <div class="list_item_content">
+                        <span>Hello this is a placeholder text</span>
+                    </div>
+
+                    <div class="side_bar_list_expand">
+                        <div>
+                    <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24px" width="24px"
+                             fill="#e3e3e3">
+                            <path d="M12,10.8L7.4,15.4L6,14l6-6l6,6l-1.4,1.4L12,10.8Z"/>
+                        </svg>
+                    </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="side_bar_list_item sub" onclick="expand_list(this)">
+                    <div class="list_item_ico">
+                        <div>
+                        <span>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24px" width="24px"
+                                 fill="#e3e3e3">
+                                <path d="M4,20q-0.82,0-1.41-0.59T2,18V6Q2,5.18 2.59,4.59T4,4h6l2,2h8q0.83,0 1.41,0.59Q22,7.18 22,8V18q0,0.82-0.59,1.41T20,20H4Zm0-2H20V8H11.18l-2-2H4V18Zm0,0V6V8V18Z"/>
+                            </svg>
+                        </span>
+                        </div>
+                    </div>
+                    <div class="list_item_content">
+                        <span>Hello this is a placeholder text</span>
+                    </div>
+
+                    <div class="side_bar_list_expand">
+                        <div>
+                    <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24px" width="24px"
+                             fill="#e3e3e3">
+                            <path d="M12,10.8L7.4,15.4L6,14l6-6l6,6l-1.4,1.4L12,10.8Z"/>
+                        </svg>
+                    </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="side_bar_list_item" onclick="expand_list(this)">
+                <div class="list_item_ico">
+                    <div>
+                        <span>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24px" width="24px"
+                                 fill="#e3e3e3">
+                                <path d="M4,20q-0.82,0-1.41-0.59T2,18V6Q2,5.18 2.59,4.59T4,4h6l2,2h8q0.83,0 1.41,0.59Q22,7.18 22,8V18q0,0.82-0.59,1.41T20,20H4Zm0-2H20V8H11.18l-2-2H4V18Zm0,0V6V8V18Z"/>
+                            </svg>
+                        </span>
+                    </div>
+                </div>
+                <div class="list_item_content">
+                    <span>Hello this is a placeholder text</span>
+                </div>
+
+                <div class="side_bar_list_expand">
+                    <div>
+                    <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="24px" width="24px"
+                             fill="#e3e3e3">
+                            <path d="M12,10.8L7.4,15.4L6,14l6-6l6,6l-1.4,1.4L12,10.8Z"/>
+                        </svg>
+                    </span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+</div>
+<zero-md src="https://raw.githubusercontent.com/benjaminplayer/APS/master/Pred/Pred1/Pred1.md"></zero-md>
+<script src="js/script.js"></script>
+</body>
+</html>

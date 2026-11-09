@@ -19,19 +19,15 @@ public:
     int elements_added;
     Tree()
     {
-        root = new Node();
-        root->c = 'R';
-        root->priority =  0;
-        root->idx = -1;
-        root->best_child = nullptr;
+        root = createNode('R',-1,-1);
         for (auto &child : root->children)
             child = nullptr;
-        elements_added = 1;
+        elements_added = 0;
     };
 
     void add(const string& s, int const priority)
     {
-        add(root, &s[0], priority, elements_added++);
+        addIt(&s[0], priority);
     }
 
     int find(const string &s) const
@@ -51,51 +47,6 @@ private:
         return node;
     }
 
-    static void add(Node* node,const char* cp, int const priority, int const element_idx)
-    {
-        // empty string -> end of the tree
-        if (*cp == '\0')
-        {
-            node->idx = element_idx; // only add the index of the best priority word at the end
-            return;
-        }
-        //if (node->children[s[0] - 'a'] != nullptr)
-        if (Node* child = node->children[(*cp) - 'a']; child != nullptr)
-        {
-
-            child->idx = -1; // reset the indicies
-            if (priority > child->priority)
-            {
-                child->priority = priority;
-                //child->best_child = child;
-            }
-            add(child, cp + 1, priority,element_idx);
-
-        }
-        else
-        {
-            const int idx = (*cp) - 'a';
-            /*node->children[idx] = new Node();
-            node->children[idx]->c = *cp;
-            node->children[idx]->priority = priority;
-            node->children[idx]->idx = element_idx;
-            node->children[idx]->best_child = nullptr;*/
-
-            node->children[idx] = createNode(*cp, priority, -1);
-
-            /*
-            // store the idx of the word on the last letter
-            node->children[idx]->idx = -1;*/
-
-            if (node->best_child == nullptr || node->best_child->priority < node->children[idx]->priority)
-                node->best_child = node->children[idx]; // nov child za ta path je automatically best
-                /*for (auto &el : node->children[idx]->children)
-                el = nullptr;*/
-            add(node->children[idx], cp+1, priority,element_idx);
-        }
-
-    }
-
     void addIt(const char* cp, int const priority)
     {
         // empty string -> end of the tree
@@ -104,9 +55,10 @@ private:
 
         while (*cp != '\0')
         {
-            int idx = *cp - 'a';
+            const int idx = *cp - 'a';
 
-            if (node->children[idx] == nullptr) createNode(*cp, priority, idx);
+            if (node->children[idx] == nullptr)
+                node->children[idx] = createNode(*cp, priority, idx);
 
             Node* child = node->children[idx];
             child->idx = -1;
@@ -114,7 +66,7 @@ private:
             if (priority > child->priority)
                 child->priority = priority;
 
-            if (node->best_child->priority < child->priority || node->best_child == nullptr)
+            if (node->best_child == nullptr || node->best_child->priority < child->priority)
                 node->best_child = child;
 
             node = child;

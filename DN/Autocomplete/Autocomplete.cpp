@@ -53,18 +53,21 @@ private:
         Node* node = root;
         elements_added++;
 
+
         while (*cp != '\0')
         {
             const int idx = *cp - 'a';
 
             if (node->children[idx] == nullptr)
-                node->children[idx] = createNode(*cp, priority, idx);
+                node->children[idx] = createNode(*cp, priority, -1);
 
             Node* child = node->children[idx];
-            child->idx = -1;
 
             if (priority > child->priority)
+            {
+                child->idx = -1;
                 child->priority = priority;
+            }
 
             if (node->best_child == nullptr || node->best_child->priority < child->priority)
                 node->best_child = child;
@@ -73,7 +76,9 @@ private:
             cp++;
         }
 
-        node->idx = elements_added;
+        if (node->idx == -1 && node->priority <= priority)
+            node->idx = elements_added;
+
     }
 
     int findIt(const char* cp) const

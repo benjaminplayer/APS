@@ -36,7 +36,7 @@ public:
             return;
         }
 
-        int left = 2*id, right = 2*id + 1;
+        const int left = 2*id, right = 2*id + 1;
         build(left);
         build(right);
         tree[id] = {
@@ -51,7 +51,7 @@ public:
         // znotraj
         if (l <= tree[id].begin && tree[id].end <= r) return tree[id].min;
         // zunaj
-        if (r <= tree[id].begin || tree[id].end <= l) return INF;
+        if (r < tree[id].begin || tree[id].end < l) return INF;
 
         return min(query(l,r,2*id), query(l,r,2*id + 1));
 
